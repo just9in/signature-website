@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-glegoo: Glegoo;
+  --font-just-me-again-down-here: "Just Me Again Down Here";
+  --font-kavoon: Kavoon;
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-navy: #1b118d;
+  --color-maroon: #8d1111;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-7xs: 6px;
+  --padding-11xs: 2px;
+}
